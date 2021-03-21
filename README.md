@@ -1,6 +1,8 @@
 # variable-name
 
 <dl>
-  <dt>hoge</dt>
-  <dd>hoge</dd>
+  <dt>リンゴ</dt>
+  <dd>赤いフルーツ</dd>
+  <dt>オレンジ</dt>
+  <dd>橙色のフルーツ</dd>
 </dl>
